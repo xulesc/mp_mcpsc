@@ -1,0 +1,6 @@
+[submodule "noc_mcpsc"]
+	path = noc_mcpsc
+	url = https://github.com/xulesc/noc_mcpsc.git
+[submodule "mc_mcpsc"]
+	path = mc_mcpsc
+	url = https://github.com/xulesc/mc_mcpsc.git
