@@ -1,0 +1,6 @@
+mp_mcpsc README file
+=====================
+
+The project provides umbrella for two platform specific implementation of
+MCPSC: multi-core and many-core (SCC).
+
