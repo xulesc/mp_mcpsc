@@ -4,3 +4,18 @@ mp_mcpsc README file
 The project provides umbrella for two platform specific implementation of
 MCPSC: multi-core and many-core (SCC).
 
+These implementations were generated as a part of Mr. Anuj Sharma's PhD
+titled "Efficient Algorithms and Architectures for Protein 3D Structure
+Comparison" at the University of Athens.
+
+Associated publications:
+
+1. Anuj Sharma, Elias S. Manolakos, “Efficient multi-criteria protein 
+structure comparison on modern processor architectures”, BioMed Research
+International, 2015, accepted for publication, in press.
+
+2. Anuj Sharma, Antonis Papanikolaou, Elias S. Manolakos, “Accelerating
+all-to-all protein structure comparison with TMalign using NoC many-cores
+processor architecture”, In ΙΕΕΕ 27th International Symposium on Parallel
+& Distributed Processing, May 2013, pp 510 – 519, Cambridge, MA.
+
