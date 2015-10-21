@@ -1,10 +1,7 @@
-mp_mcpsc README file
-=====================
-
 The project provides umbrella for two platform specific implementation of
 MCPSC: multi-core and many-core (SCC).
 
-These implementations were generated as a part of Mr. Anuj Sharma's PhD
+These implementations (sub-modules) were generated as a part of Mr. Anuj Sharma's PhD
 titled "Efficient Algorithms and Architectures for Protein 3D Structure
 Comparison" at the University of Athens.
 
