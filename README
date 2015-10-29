@@ -7,9 +7,9 @@ Comparison" at the University of Athens.
 
 Associated publications:
 
-1. Anuj Sharma, Elias S. Manolakos, “Efficient multi-criteria protein 
-structure comparison on modern processor architectures”, BioMed Research
-International, 2015, accepted for publication, in press.
+1. Anuj Sharma and Elias S. Manolakos, “Efficient Multicriteria Protein Structure
+Comparison on Modern Processor Architectures,” BioMed Research International, vol.
+2015, Article ID 563674, 13 pages, 2015. doi:10.1155/2015/563674
 
 2. Anuj Sharma, Antonis Papanikolaou, Elias S. Manolakos, “Accelerating
 all-to-all protein structure comparison with TMalign using NoC many-cores
